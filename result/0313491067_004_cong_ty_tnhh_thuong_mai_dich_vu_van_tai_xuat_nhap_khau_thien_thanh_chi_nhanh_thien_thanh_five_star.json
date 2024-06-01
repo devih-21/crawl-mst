@@ -1,0 +1,36 @@
+{
+  "companyInfo": {
+    "Mã số thuế": "0313491067-004",
+    "Địa chỉ": "Khu công nghiệp Đại kim, khu KT cửa khẩu Cầu Treo, Xã Sơn Kim 1, Huyện Hương Sơn, Hà Tĩnh",
+    "Người đại diện": "Lưu Gia Mẫn ( sinh năm 1980 - Hồ Chí Minh) Ẩn thông tin Ngoài ra Lưu Gia Mẫn còn đại diện các doanh nghiệp:\nCÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VẬN TẢI XUẤT NHẬP KHẨU THIÊN THÀNH - CHI NHÁNH THIÊN THÀNH MIỀN TRUNGCÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VẬN TẢI XUẤT NHẬP KHẨU THIÊN THÀNH - CHI NHÁNH THIÊN THÀNH – TIỀN GIANG",
+    "Điện thoại": " 0983978029",
+    "Ngày hoạt động": "2023-10-25",
+    "Quản lý bởi": "Chi cục Thuế khu vực Hương Sơn - Đức Thọ",
+    "Loại hình DN": "Công ty trách nhiệm hữu hạn 2 thành viên trở lên ngoài NN",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "1410": "May trang phục (trừ trang phục từ da lông thú)",
+    "4530": "Bán phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác",
+    "4541": "Bán mô tô, xe máy",
+    "4620": "Bán buôn nông, lâm sản nguyên liệu (trừ gỗ, tre, nứa) và động vật sống",
+    "4632": "Bán buôn thực phẩm",
+    "4641": "Bán buôn vải, hàng may sẵn, giày dép",
+    "4649": "Bán buôn đồ dùng khác cho gia đình",
+    "4651": "Bán buôn máy vi tính, thiết bị ngoại vi và phần mềm",
+    "4652": "Bán buôn thiết bị và linh kiện điện tử, viễn thông",
+    "4659": "Bán buôn máy móc, thiết bị và phụ tùng máy khác",
+    "4669": "Bán buôn chuyên doanh khác chưa được phân vào đâu",
+    "4933": "Vận tải hàng hóa bằng đường bộ",
+    "5022": "Vận tải hàng hóa đường thuỷ nội địa",
+    "5210": "Kho bãi và lưu giữ hàng hóa",
+    "5221": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường sắt và đường bộ",
+    "5224": "Bốc xếp hàng hóa",
+    "5225": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường bộ",
+    "5229": "Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải",
+    "6810": "Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê",
+    "6820": "Tư vấn, môi giới, đấu giá bất động sản, đấu giá quyền sử dụng đất",
+    "7410": "Hoạt động thiết kế chuyên dụng",
+    "7830": "Cung ứng và quản lý nguồn lao động"
+  }
+}

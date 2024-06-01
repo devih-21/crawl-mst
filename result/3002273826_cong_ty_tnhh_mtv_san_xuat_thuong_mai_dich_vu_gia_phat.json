@@ -1,0 +1,30 @@
+{
+  "companyInfo": {
+    "Mã số thuế": "3002273826",
+    "Địa chỉ": "Thôn Gia Ngãi 1, Xã Thạch Long, Huyện Thạch Hà, Tỉnh Hà Tĩnh, Việt Nam",
+    "Người đại diện": "NGUYỄN NGỌC QUÝ ( sinh năm 1991 - Hà Tĩnh) Ẩn thông tin ",
+    "Điện thoại": " 0839456668",
+    "Ngày hoạt động": "2024-01-19",
+    "Quản lý bởi": "Chi cục Thuế khu vực Thạch Hà - Lộc Hà",
+    "Loại hình DN": "Công ty trách nhiệm hữu hạn ngoài NN",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "2592": "Gia công cơ khí; xử lý và tráng phủ kim loại",
+    "4101": "Xây dựng nhà để ở",
+    "4221": "Xây dựng công trình điện",
+    "4222": "Xây dựng công trình cấp, thoát nước",
+    "4223": "Xây dựng công trình viễn thông, thông tin liên lạc",
+    "4299": "Xây dựng công trình kỹ thuật dân dụng khác",
+    "4329": "Lắp đặt hệ thống xây dựng khác",
+    "4620": "Bán buôn nông, lâm sản nguyên liệu (trừ gỗ, tre, nứa) và động vật sống",
+    "4649": "Bán buôn đồ dùng khác cho gia đình",
+    "4659": "Bán buôn máy móc, thiết bị và phụ tùng máy khác",
+    "4663": "Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng",
+    "4669": "Bán buôn chuyên doanh khác chưa được phân vào đâu",
+    "4933": "Vận tải hàng hóa bằng đường bộ",
+    "7730": "Cho thuê máy móc, thiết bị và đồ dùng hữu hình khác",
+    "8130": "Dịch vụ chăm sóc và duy trì cảnh quan",
+    "8299": "Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu"
+  }
+}
