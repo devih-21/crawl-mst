@@ -1,25 +1,4 @@
 {
-  "companyInfo": {
-    "Mã số thuế": "3002273784",
-    "Địa chỉ": "Thôn Hương Thuỷ, Xã Kim Hoa, Huyện Hương Sơn, Tỉnh Hà Tĩnh, Việt Nam",
-    "Người đại diện": "TRẦN ĐỨC DUY ( sinh năm 1997 - Hà Tĩnh) Ẩn thông tin ",
-    "Điện thoại": " 0813962999",
-    "Ngày hoạt động": "2024-01-18",
-    "Quản lý bởi": "Chi cục Thuế khu vực Hương Sơn - Đức Thọ",
-    "Loại hình DN": "Công ty trách nhiệm hữu hạn ngoài NN",
-    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
-  },
-  "industryInfo": {
-    "3211": "Sản xuất đồ kim hoàn và chi tiết liên quan",
-    "3212": "Sản xuất đồ giả kim hoàn và chi tiết liên quan",
-    "4610": "Đại lý, môi giới, đấu giá",
-    "4669": "Bán buôn chuyên doanh khác chưa được phân vào đâu",
-    "4719": "Bán lẻ khác trong các cửa hàng kinh doanh tổng hợp",
-    "4773": "Bán lẻ hàng hóa khác mới trong các cửa hàng chuyên doanh",
-    "4785": "Bán lẻ hàng văn hóa, giải trí lưu động hoặc tại chợ",
-    "4789": "Bán lẻ hàng hóa khác lưu động hoặc tại chợ",
-    "4791": "Bán lẻ theo yêu cầu đặt hàng qua bưu điện hoặc internet",
-    "7490": "Hoạt động chuyên môn, khoa học và công nghệ khác chưa được phân vào đâu",
-    "0899": "Khai khoáng khác chưa được phân vào đâu"
-  }
+  "companyInfo": {},
+  "industryInfo": {}
 }

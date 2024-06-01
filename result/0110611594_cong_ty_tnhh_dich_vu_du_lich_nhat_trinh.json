@@ -1,0 +1,24 @@
+{
+  "companyInfo": {
+    "Mã số thuế": "0110611594",
+    "Địa chỉ": "Số 15, Phố Hàng Cân, Phường Hàng Đào, Quận Hoàn Kiếm, Hà Nội",
+    "Người đại diện": "Phạm Văn Tiến ( sinh năm 1985 - Hưng Yên) Ẩn thông tin ",
+    "Điện thoại": " 0975600554",
+    "Ngày hoạt động": "2024-01-23",
+    "Quản lý bởi": "Chi cục Thuế Quận Hoàn Kiếm",
+    "Loại hình DN": "Công ty trách nhiệm hữu hạn ngoài NN",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "4771": "Bán lẻ hàng may mặc, giày dép, hàng da và giả da trong các cửa hàng chuyên doanh",
+    "4772": "Bán lẻ thuốc, dụng cụ y tế, mỹ phẩm và vật phẩm vệ sinh trong các cửa hàng chuyên doanh",
+    "4931": "Vận tải hành khách đường bộ trong nội thành, ngoại thành (trừ vận tải bằng xe buýt)",
+    "5510": "Dịch vụ lưu trú ngắn ngày",
+    "5610": "Nhà hàng và các dịch vụ ăn uống phục vụ lưu động",
+    "5629": "Dịch vụ ăn uống khác",
+    "7710": "Cho thuê xe có động cơ",
+    "7911": "Đại lý du lịch",
+    "7912": "Điều hành tua du lịch",
+    "7990": "Dịch vụ đặt chỗ và các dịch vụ hỗ trợ liên quan đến quảng bá và tổ chức tua du lịch"
+  }
+}

@@ -1,4 +1,40 @@
 {
-  "companyInfo": {},
-  "industryInfo": {}
+  "companyInfo": {
+    "Tên quốc tế": "DUC HIEN ADVERTISING TM & DV COMPANY LIMITED",
+    "Mã số thuế": "3002273657",
+    "Địa chỉ": "Thôn Sơn Quang, Xã Đức Lạng, Huyện Đức Thọ, Tỉnh Hà Tĩnh, Việt Nam",
+    "Người đại diện": "LÊ VĂN ĐỨC  ( sinh năm 1998 - Hà Tĩnh) Ẩn thông tin ",
+    "Điện thoại": " 0395765756",
+    "Ngày hoạt động": "2024-01-12",
+    "Quản lý bởi": "Chi cục Thuế khu vực Hương Sơn - Đức Thọ",
+    "Loại hình DN": "Công ty trách nhiệm hữu hạn ngoài NN",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "1811": "In ấn",
+    "1812": "Dịch vụ liên quan đến in",
+    "1820": "Sao chép bản ghi các loại",
+    "2630": "Sản xuất thiết bị truyền thông",
+    "2640": "Sản xuất sản phẩm điện tử dân dụng",
+    "2670": "Sản xuất thiết bị và dụng cụ quang học",
+    "2731": "Sản xuất dây cáp, sợi cáp quang học",
+    "2732": "Sản xuất dây, cáp điện và điện tử khác",
+    "2733": "Sản xuất thiết bị dây dẫn điện các loại",
+    "2740": "Sản xuất thiết bị điện chiếu sáng",
+    "2750": "Sản xuất đồ điện dân dụng",
+    "2790": "Sản xuất thiết bị điện khác",
+    "3312": "Sửa chữa máy móc, thiết bị",
+    "3313": "Sửa chữa thiết bị điện tử và quang học",
+    "3314": "Sửa chữa thiết bị điện",
+    "4221": "Xây dựng công trình điện",
+    "4321": "Lắp đặt hệ thống điện",
+    "4329": "Lắp đặt hệ thống xây dựng khác",
+    "4649": "Bán buôn đồ dùng khác cho gia đình",
+    "4651": "Bán buôn máy vi tính, thiết bị ngoại vi và phần mềm",
+    "4652": "Bán buôn thiết bị và linh kiện điện tử, viễn thông",
+    "4659": "Bán buôn máy móc, thiết bị và phụ tùng máy khác",
+    "4759": "Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác chưa được phân vào đâu trong các cửa hàng chuyên doanh",
+    "4784": "Bán lẻ thiết bị gia đình khác lưu động hoặc tại chợ",
+    "7310": "Quảng cáo"
+  }
 }

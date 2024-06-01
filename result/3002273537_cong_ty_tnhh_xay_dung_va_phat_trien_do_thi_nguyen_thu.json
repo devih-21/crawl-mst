@@ -1,4 +1,31 @@
 {
-  "companyInfo": {},
-  "industryInfo": {}
+  "companyInfo": {
+    "Mã số thuế": "3002273537",
+    "Địa chỉ": "Tổ dân phố 3, Phường Hà Huy Tập, Thành phố Hà Tĩnh, Tỉnh Hà Tĩnh, Việt Nam",
+    "Người đại diện": "LÊ VĂN LINH ",
+    "Điện thoại": " 0949134541",
+    "Ngày hoạt động": "2024-01-09",
+    "Quản lý bởi": "Cục Thuế Tỉnh Hà Tĩnh",
+    "Loại hình DN": "Công ty trách nhiệm hữu hạn ngoài NN",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "4101": "Xây dựng nhà để ở",
+    "4102": "Xây dựng nhà không để ở",
+    "4212": "Xây dựng công trình đường bộ",
+    "4221": "Xây dựng công trình điện",
+    "4222": "Xây dựng công trình cấp, thoát nước",
+    "4223": "Xây dựng công trình viễn thông, thông tin liên lạc",
+    "4229": "Xây dựng công trình công ích khác",
+    "4291": "Xây dựng công trình thủy",
+    "4299": "Xây dựng công trình kỹ thuật dân dụng khác",
+    "4311": "Phá dỡ",
+    "4312": "Chuẩn bị mặt bằng",
+    "4321": "Lắp đặt hệ thống điện",
+    "4322": "Lắp đặt hệ thống cấp, thoát nước, lò sưởi và điều hoà không khí",
+    "4329": "Lắp đặt hệ thống xây dựng khác",
+    "4330": "Hoàn thiện công trình xây dựng",
+    "4390": "Hoạt động xây dựng chuyên dụng khác",
+    "7110": "Hoạt động kiến trúc và tư vấn kỹ thuật có liên quan"
+  }
 }

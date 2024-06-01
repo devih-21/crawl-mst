@@ -1,0 +1,27 @@
+{
+  "companyInfo": {
+    "Tên quốc tế": "TRUONG MINH EXPRESS PRINTING JOINT STOCK COMPANY",
+    "Mã số thuế": "0110610061",
+    "Địa chỉ": "Số 111, đường Nguyễn Xiển, Phường Hạ Đình, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam",
+    "Người đại diện": "NGUYỄN VĂN HUYNH  ",
+    "Ngày hoạt động": "2024-01-22"
+  },
+  "industryInfo": {
+    "1701": "Sản xuất bột giấy, giấy và bìa",
+    "1702": "Sản xuất giấy nhăn, bìa nhăn, bao bì từ giấy và bìa",
+    "1709": "Sản xuất các sản phẩm khác từ giấy và bìa chưa được phân vào đâu",
+    "1811": "In ấn",
+    "1812": "Dịch vụ liên quan đến in",
+    "1820": "Sao chép bản ghi các loại",
+    "3312": "Sửa chữa máy móc, thiết bị",
+    "4610": "Đại lý, môi giới, đấu giá",
+    "4659": "Bán buôn máy móc, thiết bị và phụ tùng máy khác",
+    "4669": "Bán buôn chuyên doanh khác chưa được phân vào đâu",
+    "4761": "Bán lẻ sách, báo, tạp chí văn phòng phẩm trong các cửa hàng chuyên doanh",
+    "7410": "Hoạt động thiết kế chuyên dụng",
+    "8211": "Dịch vụ hành chính văn phòng tổng hợp",
+    "8219": "Photo, chuẩn bị tài liệu và các hoạt động hỗ trợ văn phòng đặc biệt khác",
+    "8292": "Dịch vụ đóng gói",
+    "8299": "Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu"
+  }
+}

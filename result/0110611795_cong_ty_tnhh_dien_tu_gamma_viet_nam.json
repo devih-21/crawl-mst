@@ -1,0 +1,28 @@
+{
+  "companyInfo": {
+    "Tên quốc tế": "VIETNAM GAMMA ELECTRONICS COMPANY LIMITED",
+    "Tên viết tắt": "GAMMA PLUS",
+    "Mã số thuế": "0110611795",
+    "Địa chỉ": "Số 09 Lô D49-Lk7 Khu đô thị mới Lê Trọng Tấn - Geleximco, Xã La Phù, Huyện Hoài Đức, Hà Nội",
+    "Người đại diện": "Nguyễn Tự Tuận ( sinh năm 1989 - Vĩnh Phúc) Ẩn thông tin ",
+    "Điện thoại": " 0938001173",
+    "Ngày hoạt động": "2024-01-24",
+    "Quản lý bởi": "Chi cục Thuế Huyện Hoài Đức",
+    "Loại hình DN": "Công ty trách nhiệm hữu hạn ngoài NN",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "2651": "Sản xuất thiết bị đo lường, kiểm tra, định hướng và điều khiển",
+    "2670": "Sản xuất thiết bị và dụng cụ quang học",
+    "3312": "Sửa chữa máy móc, thiết bị",
+    "3313": "Sửa chữa thiết bị điện tử và quang học",
+    "3314": "Sửa chữa thiết bị điện",
+    "3319": "Sửa chữa thiết bị khác",
+    "4690": "Bán buôn tổng hợp",
+    "7020": "Hoạt động tư vấn quản lý",
+    "8299": "Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu",
+    "9511": "Sửa chữa máy vi tính và thiết bị ngoại vi",
+    "9512": "Sửa chữa thiết bị liên lạc",
+    "9522": "Sửa chữa thiết bị, đồ dùng gia đình"
+  }
+}

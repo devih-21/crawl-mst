@@ -1,4 +1,43 @@
 {
-  "companyInfo": {},
-  "industryInfo": {}
+  "companyInfo": {
+    "Mã số thuế": "3002273664",
+    "Địa chỉ": "Thôn Nam Thượng, Xã Thạch Đài, Huyện Thạch Hà, Tỉnh Hà Tĩnh, Việt Nam",
+    "Người đại diện": "MAI VĂN THỌ ( sinh năm 1987 - Hà Tĩnh) Ẩn thông tin ",
+    "Điện thoại": " 0936214888",
+    "Ngày hoạt động": "2024-01-15",
+    "Quản lý bởi": "Chi cục Thuế khu vực Thạch Hà - Lộc Hà",
+    "Loại hình DN": "Công ty trách nhiệm hữu hạn ngoài NN",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "4101": "Xây dựng nhà để ở",
+    "4102": "Xây dựng nhà không để ở",
+    "4211": "Xây dựng công trình đường sắt",
+    "4212": "Xây dựng công trình đường bộ",
+    "4221": "Xây dựng công trình điện",
+    "4222": "Xây dựng công trình cấp, thoát nước",
+    "4223": "Xây dựng công trình viễn thông, thông tin liên lạc",
+    "4229": "Xây dựng công trình công ích khác",
+    "4291": "Xây dựng công trình thủy",
+    "4292": "Xây dựng công trình khai khoáng",
+    "4293": "Xây dựng công trình chế biến, chế tạo",
+    "4299": "Xây dựng công trình kỹ thuật dân dụng khác",
+    "4311": "Phá dỡ",
+    "4312": "Chuẩn bị mặt bằng",
+    "4321": "Lắp đặt hệ thống điện",
+    "4322": "Lắp đặt hệ thống cấp, thoát nước, lò sưởi và điều hoà không khí",
+    "4329": "Lắp đặt hệ thống xây dựng khác",
+    "4330": "Hoàn thiện công trình xây dựng",
+    "4390": "Hoạt động xây dựng chuyên dụng khác",
+    "4649": "Bán buôn đồ dùng khác cho gia đình",
+    "4652": "Bán buôn thiết bị và linh kiện điện tử, viễn thông",
+    "4659": "Bán buôn máy móc, thiết bị và phụ tùng máy khác",
+    "4663": "Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng",
+    "4690": "Bán buôn tổng hợp",
+    "4752": "Bán lẻ đồ ngũ kim, sơn, kính và thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh",
+    "4933": "Vận tải hàng hóa bằng đường bộ",
+    "8511": "Giáo dục nhà trẻ",
+    "8512": "Giáo dục mẫu giáo",
+    "8559": "Giáo dục khác chưa được phân vào đâu"
+  }
 }

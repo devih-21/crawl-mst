@@ -1,0 +1,35 @@
+{
+  "companyInfo": {
+    "Tên quốc tế": "NAM RESEARCH COMPANY LIMITED",
+    "Mã số thuế": "0110611435",
+    "Địa chỉ": "1 ngách 53/103 ngõ 53 Đức Giang, Phường Đức Giang, Quận Long Biên, Thành phố Hà Nội, Việt Nam",
+    "Người đại diện": "NGUYỄN BÁ CHUNG Ngoài ra NGUYỄN BÁ CHUNG còn đại diện các doanh nghiệp:\nNGUYỄN BÁ CHUNG",
+    "Điện thoại": " 0949702916",
+    "Ngày hoạt động": "2024-01-23",
+    "Quản lý bởi": "Chi cục thuế Quận Long Biên",
+    "Loại hình DN": "Công ty trách nhiệm hữu hạn ngoài NN",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "2651": "Sản xuất thiết bị đo lường, kiểm tra, định hướng và điều khiển",
+    "3320": "Lắp đặt máy móc và thiết bị công nghiệp",
+    "4322": "Lắp đặt hệ thống cấp, thoát nước, lò sưởi và điều hoà không khí",
+    "4329": "Lắp đặt hệ thống xây dựng khác",
+    "4649": "Bán buôn đồ dùng khác cho gia đình",
+    "4651": "Bán buôn máy vi tính, thiết bị ngoại vi và phần mềm",
+    "4652": "Bán buôn thiết bị và linh kiện điện tử, viễn thông",
+    "4659": "Bán buôn máy móc, thiết bị và phụ tùng máy khác",
+    "4742": "Bán lẻ thiết bị nghe nhìn trong các cửa hàng chuyên doanh",
+    "6201": "Lập trình máy vi tính",
+    "6202": "Tư vấn máy vi tính và quản trị hệ thống máy vi tính",
+    "6209": "Hoạt động dịch vụ công nghệ thông tin và dịch vụ khác liên quan đến máy vi tính",
+    "7110": "Hoạt động kiến trúc và tư vấn kỹ thuật có liên quan",
+    "7212": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học kỹ thuật và công nghệ",
+    "7490": "Hoạt động chuyên môn, khoa học và công nghệ khác chưa được phân vào đâu",
+    "8121": "Vệ sinh chung nhà cửa",
+    "8129": "Vệ sinh nhà cửa và các công trình khác",
+    "8559": "Giáo dục khác chưa được phân vào đâu",
+    "9521": "Sửa chữa thiết bị nghe nhìn điện tử gia dụng",
+    "9522": "Sửa chữa thiết bị, đồ dùng gia đình"
+  }
+}

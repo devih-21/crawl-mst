@@ -1,0 +1,38 @@
+{
+  "companyInfo": {
+    "Mã số thuế": "0110612037",
+    "Địa chỉ": "Số 176, Tổ dân phố 12, phố Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Thành phố Hà Nội, Việt Nam",
+    "Người đại diện": "HOÀNG VĂN ĐỨC ",
+    "Điện thoại": " 0985708282",
+    "Ngày hoạt động": "2024-01-24",
+    "Quản lý bởi": "Chi cục Thuế Quận Hà Đông",
+    "Loại hình DN": "Công ty trách nhiệm hữu hạn 2 thành viên trở lên ngoài NN",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "1811": "In ấn",
+    "1812": "Dịch vụ liên quan đến in",
+    "4330": "Hoàn thiện công trình xây dựng",
+    "4711": "Bán lẻ lương thực, thực phẩm, đồ uống, thuốc lá, thuốc lào chiếm tỷ trọng lớn trong các cửa hàng kinh doanh tổng hợp",
+    "4741": "Bán lẻ máy vi tính, thiết bị ngoại vi, phần mềm và thiết bị viễn thông trong các cửa hàng chuyên doanh",
+    "4742": "Bán lẻ thiết bị nghe nhìn trong các cửa hàng chuyên doanh",
+    "4759": "Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác chưa được phân vào đâu trong các cửa hàng chuyên doanh",
+    "4771": "Bán lẻ hàng may mặc, giày dép, hàng da và giả da trong các cửa hàng chuyên doanh",
+    "4772": "Bán lẻ thuốc, dụng cụ y tế, mỹ phẩm và vật phẩm vệ sinh trong các cửa hàng chuyên doanh",
+    "4791": "Bán lẻ theo yêu cầu đặt hàng qua bưu điện hoặc internet",
+    "5820": "Xuất bản phần mềm",
+    "6201": "Lập trình máy vi tính",
+    "6202": "Tư vấn máy vi tính và quản trị hệ thống máy vi tính",
+    "6209": "Hoạt động dịch vụ công nghệ thông tin và dịch vụ khác liên quan đến máy vi tính",
+    "6311": "Xử lý dữ liệu, cho thuê và các hoạt động liên quan",
+    "6312": "Cổng thông tin",
+    "7110": "Hoạt động kiến trúc và tư vấn kỹ thuật có liên quan",
+    "7211": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học tự nhiên",
+    "7212": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học kỹ thuật và công nghệ",
+    "7310": "Quảng cáo",
+    "7410": "Hoạt động thiết kế chuyên dụng",
+    "8299": "Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu",
+    "8559": "Giáo dục khác chưa được phân vào đâu",
+    "8560": "Dịch vụ hỗ trợ giáo dục"
+  }
+}

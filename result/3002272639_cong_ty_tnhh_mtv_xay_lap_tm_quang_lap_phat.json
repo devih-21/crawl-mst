@@ -1,4 +1,31 @@
 {
-  "companyInfo": {},
-  "industryInfo": {}
+  "companyInfo": {
+    "Mã số thuế": "3002272639",
+    "Địa chỉ": "Thôn Tân Thắng, Xã Kỳ Tân, Huyện Kỳ Anh, Tỉnh Hà Tĩnh, Việt Nam",
+    "Người đại diện": "NGUYỄN THỊ NGỌ ( sinh năm 1977 - Hà Tĩnh) Ẩn thông tin ",
+    "Điện thoại": " 0961000808",
+    "Ngày hoạt động": "2023-11-27",
+    "Quản lý bởi": "Chi cục Thuế khu vực Kỳ Anh",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "2591": "Rèn, dập, ép và cán kim loại; luyện bột kim loại",
+    "2592": "Gia công cơ khí; xử lý và tráng phủ kim loại",
+    "3600": "Khai thác, xử lý và cung cấp nước",
+    "4101": "Xây dựng nhà để ở",
+    "4102": "Xây dựng nhà không để ở",
+    "4212": "Xây dựng công trình đường bộ",
+    "4221": "Xây dựng công trình điện",
+    "4291": "Xây dựng công trình thủy",
+    "4299": "Xây dựng công trình kỹ thuật dân dụng khác",
+    "4311": "Phá dỡ",
+    "4312": "Chuẩn bị mặt bằng",
+    "4321": "Lắp đặt hệ thống điện",
+    "4322": "Lắp đặt hệ thống cấp, thoát nước, lò sưởi và điều hoà không khí",
+    "4329": "Lắp đặt hệ thống xây dựng khác",
+    "4330": "Hoàn thiện công trình xây dựng",
+    "4690": "Bán buôn tổng hợp",
+    "4933": "Vận tải hàng hóa bằng đường bộ",
+    "0810": "Khai thác đá, cát, sỏi, đất sét"
+  }
 }

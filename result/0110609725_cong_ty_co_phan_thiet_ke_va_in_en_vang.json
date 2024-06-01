@@ -1,0 +1,34 @@
+{
+  "companyInfo": {
+    "Tên quốc tế": "GOLDEN SWALLOW DESIGN AND PRINT JOINT STOCK COMPANY",
+    "Mã số thuế": "0110609725",
+    "Địa chỉ": "Số 12, Đường Bắc 1, Thôn Thượng Phúc, Xã Bắc Hồng, Huyện Đông Anh, Thành phố Hà Nội, Việt Nam",
+    "Người đại diện": "NGUYỄN TIẾN TÂM  ( sinh năm 1994 - Hà Nội) Ẩn thông tin ",
+    "Điện thoại": " 0977706338",
+    "Ngày hoạt động": "2024-01-22",
+    "Quản lý bởi": "Chi cục Thuế Huyện Đông Anh",
+    "Loại hình DN": "Công ty cổ phần ngoài NN",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "1811": "In ấn",
+    "1812": "Dịch vụ liên quan đến in",
+    "1820": "Sao chép bản ghi các loại",
+    "4651": "Bán buôn máy vi tính, thiết bị ngoại vi và phần mềm",
+    "4659": "Bán buôn máy móc, thiết bị và phụ tùng máy khác",
+    "4669": "Bán buôn chuyên doanh khác chưa được phân vào đâu",
+    "4741": "Bán lẻ máy vi tính, thiết bị ngoại vi, phần mềm và thiết bị viễn thông trong các cửa hàng chuyên doanh",
+    "4761": "Bán lẻ sách, báo, tạp chí văn phòng phẩm trong các cửa hàng chuyên doanh",
+    "4762": "Bán lẻ băng đĩa âm thanh, hình ảnh (kể cả băng, đĩa trắng) trong các cửa hàng chuyên doanh",
+    "6201": "Lập trình máy vi tính",
+    "6202": "Tư vấn máy vi tính và quản trị hệ thống máy vi tính",
+    "6209": "Hoạt động dịch vụ công nghệ thông tin và dịch vụ khác liên quan đến máy vi tính",
+    "6311": "Xử lý dữ liệu, cho thuê và các hoạt động liên quan",
+    "6312": "Cổng thông tin",
+    "6399": "Dịch vụ thông tin khác chưa được phân vào đâu",
+    "7410": "Hoạt động thiết kế chuyên dụng",
+    "8211": "Dịch vụ hành chính văn phòng tổng hợp",
+    "8219": "Photo, chuẩn bị tài liệu và các hoạt động hỗ trợ văn phòng đặc biệt khác",
+    "8299": "Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu"
+  }
+}

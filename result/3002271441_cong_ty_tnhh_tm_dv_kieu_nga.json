@@ -1,0 +1,26 @@
+{
+  "companyInfo": {
+    "Mã số thuế": "3002271441",
+    "Địa chỉ": "SN 409, QL1A, TDP Hồng Quang, Thị Trấn Nghèn, Huyện Can Lộc, Tỉnh Hà Tĩnh, Việt Nam",
+    "Người đại diện": "PHAN THỊ KIỀU NGA ",
+    "Ngày hoạt động": "2023-10-11"
+  },
+  "industryInfo": {
+    "4649": "Bán buôn đồ dùng khác cho gia đình",
+    "4651": "Bán buôn máy vi tính, thiết bị ngoại vi và phần mềm",
+    "4652": "Bán buôn thiết bị và linh kiện điện tử, viễn thông",
+    "4659": "Bán buôn máy móc, thiết bị và phụ tùng máy khác",
+    "4772": "Bán lẻ thuốc, dụng cụ y tế, mỹ phẩm và vật phẩm vệ sinh trong các cửa hàng chuyên doanh",
+    "4791": "Bán lẻ theo yêu cầu đặt hàng qua bưu điện hoặc internet",
+    "4799": "Bán lẻ hình thức khác chưa được phân vào đâu",
+    "4933": "Vận tải hàng hóa bằng đường bộ",
+    "6810": "Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê",
+    "6820": "Tư vấn, môi giới, đấu giá bất động sản, đấu giá quyền sử dụng đất",
+    "7710": "Cho thuê xe có động cơ",
+    "7810": "Hoạt động của các trung tâm, đại lý tư vấn, giới thiệu và môi giới lao động, việc làm",
+    "7820": "Cung ứng lao động tạm thời",
+    "7830": "Cung ứng và quản lý nguồn lao động",
+    "8230": "Tổ chức giới thiệu và xúc tiến thương mại",
+    "8531": "Đào tạo sơ cấp"
+  }
+}

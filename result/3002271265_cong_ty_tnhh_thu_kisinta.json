@@ -1,0 +1,25 @@
+{
+  "companyInfo": {
+    "Tên quốc tế": "THU KISINTA COMPANY LIMITED",
+    "Tên viết tắt": "THU KISINTA CO., LTD",
+    "Mã số thuế": "3002271265",
+    "Địa chỉ": "Thôn Đồng Phú, Xã Kỳ Đồng, Huyện Kỳ Anh, Tỉnh Hà Tĩnh, Việt Nam",
+    "Người đại diện": "NGUYỄN THỊ THU ( sinh năm 1996 - Hà Tĩnh) Ẩn thông tin ",
+    "Điện thoại": " 0396555565",
+    "Ngày hoạt động": "2023-10-04",
+    "Quản lý bởi": "Chi cục Thuế khu vực Kỳ Anh",
+    "Loại hình DN": "Công ty trách nhiệm hữu hạn ngoài NN",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "5210": "Kho bãi và lưu giữ hàng hóa",
+    "5224": "Bốc xếp hàng hóa",
+    "5225": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường bộ",
+    "5229": "Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải",
+    "5310": "Bưu chính",
+    "5590": "Cơ sở lưu trú khác",
+    "7911": "Đại lý du lịch",
+    "7912": "Điều hành tua du lịch",
+    "7990": "Dịch vụ đặt chỗ và các dịch vụ hỗ trợ liên quan đến quảng bá và tổ chức tua du lịch"
+  }
+}

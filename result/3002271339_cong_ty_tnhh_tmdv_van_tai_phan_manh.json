@@ -1,0 +1,38 @@
+{
+  "companyInfo": {
+    "Mã số thuế": "3002271339",
+    "Địa chỉ": "Thôn Vĩnh Yên, Xã Đức Lạng, Huyện Đức Thọ, Tỉnh Hà Tĩnh, Việt Nam",
+    "Người đại diện": "PHAN ĐÌNH MẠNH ( sinh năm 1994 - Hà Tĩnh) Ẩn thông tin ",
+    "Điện thoại": " 0941968234",
+    "Ngày hoạt động": "2023-10-06",
+    "Quản lý bởi": "Chi cục Thuế khu vực Hương Sơn - Đức Thọ",
+    "Loại hình DN": "Công ty trách nhiệm hữu hạn ngoài NN",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "4101": "Xây dựng nhà để ở",
+    "4102": "Xây dựng nhà không để ở",
+    "4229": "Xây dựng công trình công ích khác",
+    "4311": "Phá dỡ",
+    "4312": "Chuẩn bị mặt bằng",
+    "4390": "Hoạt động xây dựng chuyên dụng khác",
+    "4511": "Bán buôn ô tô và xe có động cơ khác",
+    "4512": "Bán lẻ ô tô con (loại 12 chỗ ngồi trở xuống)",
+    "4513": "Đại lý ô tô và xe có động cơ khác",
+    "4520": "Bảo dưỡng, sửa chữa ô tô và xe có động cơ khác",
+    "4530": "Bán phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác",
+    "4541": "Bán mô tô, xe máy",
+    "4542": "Bảo dưỡng và sửa chữa mô tô, xe máy",
+    "4543": "Bán phụ tùng và các bộ phận phụ trợ của mô tô, xe máy",
+    "4610": "Đại lý, môi giới, đấu giá",
+    "4649": "Bán buôn đồ dùng khác cho gia đình",
+    "4659": "Bán buôn máy móc, thiết bị và phụ tùng máy khác",
+    "4662": "Bán buôn kim loại và quặng kim loại",
+    "4663": "Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng",
+    "4752": "Bán lẻ đồ ngũ kim, sơn, kính và thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh",
+    "4932": "Vận tải hành khách đường bộ khác",
+    "4933": "Vận tải hàng hóa bằng đường bộ",
+    "7710": "Cho thuê xe có động cơ",
+    "7730": "Cho thuê máy móc, thiết bị và đồ dùng hữu hình khác"
+  }
+}

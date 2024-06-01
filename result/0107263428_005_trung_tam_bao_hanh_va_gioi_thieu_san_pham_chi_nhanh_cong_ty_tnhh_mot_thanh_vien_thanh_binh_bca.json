@@ -1,0 +1,43 @@
+{
+  "companyInfo": {
+    "Tên quốc tế": "WARRANTY AND PRODUCT INTRODUCTION CENTER - BRANCH OF THANH BINH - BCA COMPANY LIMITED",
+    "Tên viết tắt": "TRUNG TÂM THANH BÌNH - BCA",
+    "Mã số thuế": "0107263428-005",
+    "Địa chỉ": "Khu Công nghiệp An Ninh, Xã Lại Yên, Huyện Hoài Đức, Hà Nội",
+    "Người đại diện": "Lê Minh Tuấn ",
+    "Điện thoại": " 0888178668",
+    "Ngày hoạt động": "2024-01-19",
+    "Quản lý bởi": "Cục Thuế Thành phố Hà Nội",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "2511": "Sản xuất các cấu kiện kim loại",
+    "2520": "Sản xuất vũ khí và đạn dược",
+    "2592": "Gia công cơ khí; xử lý và tráng phủ kim loại",
+    "2599": "Sản xuất sản phẩm khác bằng kim loại chưa được phân vào đâu",
+    "2610": "Sản xuất linh kiện điện tử",
+    "2620": "Sản xuất máy vi tính và thiết bị ngoại vi của máy vi tính",
+    "2630": "Sản xuất thiết bị truyền thông",
+    "2640": "Sản xuất sản phẩm điện tử dân dụng",
+    "2670": "Sản xuất thiết bị và dụng cụ quang học",
+    "2740": "Sản xuất thiết bị điện chiếu sáng",
+    "3100": "Sản xuất giường, tủ, bàn, ghế",
+    "3312": "Sửa chữa máy móc, thiết bị",
+    "4221": "Xây dựng công trình điện",
+    "4223": "Xây dựng công trình viễn thông, thông tin liên lạc",
+    "4321": "Lắp đặt hệ thống điện",
+    "4322": "Lắp đặt hệ thống cấp, thoát nước, lò sưởi và điều hoà không khí",
+    "4329": "Lắp đặt hệ thống xây dựng khác",
+    "4659": "Bán buôn máy móc, thiết bị và phụ tùng máy khác",
+    "4690": "Bán buôn tổng hợp",
+    "6110": "Hoạt động viễn thông có dây",
+    "6120": "Hoạt động viễn thông không dây",
+    "6190": "Hoạt động viễn thông khác",
+    "7110": "Hoạt động kiến trúc và tư vấn kỹ thuật có liên quan",
+    "7120": "Kiểm tra và phân tích kỹ thuật",
+    "7212": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học kỹ thuật và công nghệ",
+    "7490": "Hoạt động chuyên môn, khoa học và công nghệ khác chưa được phân vào đâu",
+    "8299": "Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu",
+    "8559": "Giáo dục khác chưa được phân vào đâu"
+  }
+}

@@ -3,8 +3,7 @@ const fs = require("fs");
 
 const mainURL = "https://masothue.com";
 
-const urlProvide =
-  "https://masothue.com/tra-cuu-ma-so-thue-theo-tinh/ha-tinh-342";
+const urlProvide = "https://masothue.com/tra-cuu-ma-so-thue-theo-tinh/ha-noi-7";
 
 const getListPaging = async () => {
   let listPaging = await fetch(urlProvide)
@@ -29,7 +28,7 @@ const getListCompany = async (listPaging) => {
       const html = await response.text();
       const { document } = new JSDOM(html).window;
       let companyList = [];
-
+      console.log("page", page);
       let domCompany = document.querySelector(".tax-listing");
       let linkDOM = domCompany.querySelectorAll("h3");
       for (let i = 0; i < linkDOM.length; i++) {
@@ -108,7 +107,10 @@ const getCompanyInfoByUrl = async (url) => {
 };
 
 const main = async () => {
-  const listPaging = await getListPaging();
+  const listPaging = [
+    1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+  ];
+  // const listPaging = await getListPaging();
   const listCompany = await getListCompany(listPaging);
 
   await Promise.all(

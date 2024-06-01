@@ -1,0 +1,33 @@
+{
+  "companyInfo": {
+    "Tên quốc tế": "NHAT DUONG E-COMMERCE SOLUTIONS COMPANY LIMITED",
+    "Mã số thuế": "0110611989",
+    "Địa chỉ": "Cụm 6 ngõ 2 thôn Phượng Nghĩa - Xã Phụng Châu - Huyện Chương Mỹ - Hà Nội.",
+    "Người đại diện": "Nguyễn Thị Thanh Huyền ( sinh năm 1995 - Hà Nội) Ẩn thông tin ",
+    "Điện thoại": " 0373433131",
+    "Ngày hoạt động": "2024-01-24",
+    "Quản lý bởi": "Chi cục Thuế khu vực Thanh Oai - Chương Mỹ",
+    "Loại hình DN": "Công ty trách nhiệm hữu hạn ngoài NN",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "4610": "Đại lý, môi giới, đấu giá",
+    "4631": "Bán buôn gạo",
+    "4632": "Bán buôn thực phẩm",
+    "4633": "Bán buôn đồ uống",
+    "4690": "Bán buôn tổng hợp",
+    "4711": "Bán lẻ lương thực, thực phẩm, đồ uống, thuốc lá, thuốc lào chiếm tỷ trọng lớn trong các cửa hàng kinh doanh tổng hợp",
+    "4721": "Bán lẻ lương thực trong các cửa hàng chuyên doanh",
+    "4722": "Bán lẻ thực phẩm trong các cửa hàng chuyên doanh",
+    "4723": "Bán lẻ đồ uống trong các cửa hàng chuyên doanh",
+    "4724": "Bán lẻ sản phẩm thuốc lá, thuốc lào trong các cửa hàng chuyên doanh",
+    "4773": "Bán lẻ hàng hóa khác mới trong các cửa hàng chuyên doanh",
+    "4791": "Bán lẻ theo yêu cầu đặt hàng qua bưu điện hoặc internet",
+    "4799": "Bán lẻ hình thức khác chưa được phân vào đâu",
+    "5210": "Kho bãi và lưu giữ hàng hóa",
+    "5225": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường bộ",
+    "5229": "Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải",
+    "6612": "Môi giới hợp đồng hàng hoá và chứng khoán",
+    "8292": "Dịch vụ đóng gói"
+  }
+}

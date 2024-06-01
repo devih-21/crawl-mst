@@ -1,0 +1,20 @@
+{
+  "companyInfo": {
+    "Mã số thuế": "3002271875",
+    "Địa chỉ": "Thôn Đông Văn , Xã Kỳ Tân, Huyện Kỳ Anh, Tỉnh Hà Tĩnh, Việt Nam",
+    "Người đại diện": "TRẦN TÚ ANH  ( sinh năm 1992 - Hà Tĩnh) Ẩn thông tin ",
+    "Điện thoại": " 0911688638",
+    "Ngày hoạt động": "2023-10-26",
+    "Quản lý bởi": "Chi cục Thuế khu vực Kỳ Anh",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "4633": "Bán buôn đồ uống",
+    "5510": "Dịch vụ lưu trú ngắn ngày",
+    "5590": "Cơ sở lưu trú khác",
+    "5610": "Nhà hàng và các dịch vụ ăn uống phục vụ lưu động",
+    "5621": "Cung cấp dịch vụ ăn uống theo hợp đồng không thường xuyên với khách hàng (phục vụ tiệc, hội họp, đám cưới...)",
+    "5629": "Dịch vụ ăn uống khác",
+    "5630": "Dịch vụ phục vụ đồ uống"
+  }
+}

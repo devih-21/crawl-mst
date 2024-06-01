@@ -1,4 +1,21 @@
 {
-  "companyInfo": {},
-  "industryInfo": {}
+  "companyInfo": {
+    "Mã số thuế": "3002272798",
+    "Địa chỉ": "Thôn Tân Tiến, Xã Cẩm Quan, Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh, Việt Nam",
+    "Người đại diện": "NGUYỄN THỊ HOÀI VINH ( sinh năm 1976 - Hà Tĩnh) Ẩn thông tin ",
+    "Điện thoại": " 0974368088",
+    "Ngày hoạt động": "2023-12-01",
+    "Quản lý bởi": "Cục Thuế Tỉnh Hà Tĩnh",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "1811": "In ấn",
+    "1812": "Dịch vụ liên quan đến in",
+    "1820": "Sao chép bản ghi các loại",
+    "7310": "Quảng cáo",
+    "7710": "Cho thuê xe có động cơ",
+    "7729": "Cho thuê đồ dùng cá nhân và gia đình khác",
+    "8230": "Tổ chức giới thiệu và xúc tiến thương mại",
+    "9000": "Hoạt động sáng tác, nghệ thuật và giải trí"
+  }
 }

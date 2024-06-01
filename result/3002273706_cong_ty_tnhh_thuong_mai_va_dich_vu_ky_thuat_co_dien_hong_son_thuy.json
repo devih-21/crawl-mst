@@ -1,4 +1,33 @@
 {
-  "companyInfo": {},
-  "industryInfo": {}
+  "companyInfo": {
+    "Tên viết tắt": "CÔNG TY TNHH CƠ ĐIỆN HỒNG SƠN THỦY",
+    "Mã số thuế": "3002273706",
+    "Địa chỉ": "Thôn Quần Ngọc, Xã Khánh Vĩnh Yên, Huyện Can Lộc, Tỉnh Hà Tĩnh, Việt Nam",
+    "Người đại diện": "BÙI HUY PHONG ",
+    "Điện thoại": " 096 8631617",
+    "Ngày hoạt động": "2024-01-16",
+    "Quản lý bởi": "Chi cục Thuế khu vực thị xã Hồng Lĩnh - Can Lộc",
+    "Loại hình DN": "Công ty trách nhiệm hữu hạn 2 thành viên trở lên ngoài NN",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "2395": "Sản xuất bê tông và các sản phẩm từ xi măng và thạch cao",
+    "3312": "Sửa chữa máy móc, thiết bị",
+    "3314": "Sửa chữa thiết bị điện",
+    "3319": "Sửa chữa thiết bị khác",
+    "3320": "Lắp đặt máy móc và thiết bị công nghiệp",
+    "4321": "Lắp đặt hệ thống điện",
+    "4322": "Lắp đặt hệ thống cấp, thoát nước, lò sưởi và điều hoà không khí",
+    "4329": "Lắp đặt hệ thống xây dựng khác",
+    "4330": "Hoàn thiện công trình xây dựng",
+    "4649": "Bán buôn đồ dùng khác cho gia đình",
+    "4659": "Bán buôn máy móc, thiết bị và phụ tùng máy khác",
+    "4662": "Bán buôn kim loại và quặng kim loại",
+    "4663": "Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng",
+    "4690": "Bán buôn tổng hợp",
+    "4752": "Bán lẻ đồ ngũ kim, sơn, kính và thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh",
+    "4759": "Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác chưa được phân vào đâu trong các cửa hàng chuyên doanh",
+    "8121": "Vệ sinh chung nhà cửa",
+    "8129": "Vệ sinh nhà cửa và các công trình khác"
+  }
 }

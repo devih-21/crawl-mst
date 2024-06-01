@@ -1,0 +1,28 @@
+{
+  "companyInfo": {
+    "Tên quốc tế": "MINH KHANG TMDV TECHNOLOGY COMPANY LIMITED",
+    "Mã số thuế": "0110611900",
+    "Địa chỉ": "Số 59 A Phố Lý Nam Đế, Phường Hàng Mã, Quận Hoàn Kiếm, Hà Nội",
+    "Người đại diện": "Phạm Trường Sơn ( sinh năm 1974 - Bắc Ninh) Ẩn thông tin ",
+    "Điện thoại": " 0913566456",
+    "Ngày hoạt động": "2024-01-24",
+    "Quản lý bởi": "Chi cục Thuế Quận Hoàn Kiếm",
+    "Loại hình DN": "Công ty trách nhiệm hữu hạn ngoài NN",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "1811": "In ấn",
+    "2620": "Sản xuất máy vi tính và thiết bị ngoại vi của máy vi tính",
+    "2640": "Sản xuất sản phẩm điện tử dân dụng",
+    "3313": "Sửa chữa thiết bị điện tử và quang học",
+    "4610": "Đại lý, môi giới, đấu giá",
+    "4651": "Bán buôn máy vi tính, thiết bị ngoại vi và phần mềm",
+    "4652": "Bán buôn thiết bị và linh kiện điện tử, viễn thông",
+    "6202": "Tư vấn máy vi tính và quản trị hệ thống máy vi tính",
+    "7310": "Quảng cáo",
+    "7410": "Hoạt động thiết kế chuyên dụng",
+    "8299": "Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu",
+    "8559": "Giáo dục khác chưa được phân vào đâu",
+    "9511": "Sửa chữa máy vi tính và thiết bị ngoại vi"
+  }
+}

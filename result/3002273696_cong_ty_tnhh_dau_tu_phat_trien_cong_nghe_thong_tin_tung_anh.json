@@ -1,4 +1,43 @@
 {
-  "companyInfo": {},
-  "industryInfo": {}
+  "companyInfo": {
+    "Tên quốc tế": "TUNG ANH DEVELOPMENT & INVESTMENT INFORMATION TECHNOLOGY COMPANY LIMITED",
+    "Mã số thuế": "3002273696",
+    "Địa chỉ": "Số 02, ngõ 25, đường Nguyễn Nễ, Thị trấn Tiên Điền, Huyện Nghi Xuân, Tỉnh Hà Tĩnh, Việt Nam",
+    "Người đại diện": "NGUYỄN VĂN THÔNG ( sinh năm 1976 - Hà Tĩnh) Ẩn thông tin ",
+    "Điện thoại": " 0912281800",
+    "Ngày hoạt động": "2024-01-16",
+    "Quản lý bởi": "Chi cục Thuế Huyện Nghi Xuân",
+    "Loại hình DN": "Công ty trách nhiệm hữu hạn ngoài NN",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "2620": "Sản xuất máy vi tính và thiết bị ngoại vi của máy vi tính",
+    "2630": "Sản xuất thiết bị truyền thông",
+    "2640": "Sản xuất sản phẩm điện tử dân dụng",
+    "2817": "Sản xuất máy móc và thiết bị văn phòng (trừ máy vi tính và thiết bị ngoại vi của máy vi tính)",
+    "3312": "Sửa chữa máy móc, thiết bị",
+    "3319": "Sửa chữa thiết bị khác",
+    "3530": "Sản xuất, phân phối hơi nước, nước nóng, điều hoà không khí và sản xuất nước đá",
+    "4223": "Xây dựng công trình viễn thông, thông tin liên lạc",
+    "4321": "Lắp đặt hệ thống điện",
+    "4322": "Lắp đặt hệ thống cấp, thoát nước, lò sưởi và điều hoà không khí",
+    "4649": "Bán buôn đồ dùng khác cho gia đình",
+    "4651": "Bán buôn máy vi tính, thiết bị ngoại vi và phần mềm",
+    "4652": "Bán buôn thiết bị và linh kiện điện tử, viễn thông",
+    "4659": "Bán buôn máy móc, thiết bị và phụ tùng máy khác",
+    "4663": "Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng",
+    "4669": "Bán buôn chuyên doanh khác chưa được phân vào đâu",
+    "4761": "Bán lẻ sách, báo, tạp chí văn phòng phẩm trong các cửa hàng chuyên doanh",
+    "6110": "Hoạt động viễn thông có dây",
+    "6120": "Hoạt động viễn thông không dây",
+    "6190": "Hoạt động viễn thông khác",
+    "6202": "Tư vấn máy vi tính và quản trị hệ thống máy vi tính",
+    "6209": "Hoạt động dịch vụ công nghệ thông tin và dịch vụ khác liên quan đến máy vi tính",
+    "8299": "Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu",
+    "8560": "Dịch vụ hỗ trợ giáo dục",
+    "9511": "Sửa chữa máy vi tính và thiết bị ngoại vi",
+    "9512": "Sửa chữa thiết bị liên lạc",
+    "9521": "Sửa chữa thiết bị nghe nhìn điện tử gia dụng",
+    "9522": "Sửa chữa thiết bị, đồ dùng gia đình"
+  }
 }

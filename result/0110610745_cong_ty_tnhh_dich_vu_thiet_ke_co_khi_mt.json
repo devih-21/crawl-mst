@@ -1,0 +1,36 @@
+{
+  "companyInfo": {
+    "Tên quốc tế": "MT MECHANICAL DESIGN SERVICES COMPANY LIMITED",
+    "Tên viết tắt": "MT MECHANICAL DESIGN SERVICES CO.,LTD",
+    "Mã số thuế": "0110610745",
+    "Địa chỉ": "Đội 3, thôn La Đồng, Xã Hợp Tiến, Huyện Mỹ Đức, Thành phố Hà Nội, Việt Nam",
+    "Người đại diện": "NGUYỄN VĂN TOÀN ",
+    "Điện thoại": " 0972320910",
+    "Ngày hoạt động": "2024-01-23",
+    "Quản lý bởi": "Chi cục Thuế khu vực Ứng Hòa - Mỹ Đức",
+    "Loại hình DN": "Công ty trách nhiệm hữu hạn ngoài NN",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "2592": "Gia công cơ khí; xử lý và tráng phủ kim loại",
+    "3312": "Sửa chữa máy móc, thiết bị",
+    "3313": "Sửa chữa thiết bị điện tử và quang học",
+    "4511": "Bán buôn ô tô và xe có động cơ khác",
+    "4512": "Bán lẻ ô tô con (loại 12 chỗ ngồi trở xuống)",
+    "4513": "Đại lý ô tô và xe có động cơ khác",
+    "4520": "Bảo dưỡng, sửa chữa ô tô và xe có động cơ khác",
+    "4530": "Bán phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác",
+    "4541": "Bán mô tô, xe máy",
+    "4542": "Bảo dưỡng và sửa chữa mô tô, xe máy",
+    "4543": "Bán phụ tùng và các bộ phận phụ trợ của mô tô, xe máy",
+    "4610": "Đại lý, môi giới, đấu giá",
+    "4651": "Bán buôn máy vi tính, thiết bị ngoại vi và phần mềm",
+    "4652": "Bán buôn thiết bị và linh kiện điện tử, viễn thông",
+    "4659": "Bán buôn máy móc, thiết bị và phụ tùng máy khác",
+    "7110": "Hoạt động kiến trúc và tư vấn kỹ thuật có liên quan",
+    "7120": "Kiểm tra và phân tích kỹ thuật",
+    "7212": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học kỹ thuật và công nghệ",
+    "7410": "Hoạt động thiết kế chuyên dụng",
+    "8299": "Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu"
+  }
+}

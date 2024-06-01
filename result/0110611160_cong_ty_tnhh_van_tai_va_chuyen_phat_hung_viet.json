@@ -1,0 +1,35 @@
+{
+  "companyInfo": {
+    "Tên quốc tế": "HUNG VIET TRANSPORTATION AND DELIVERY COMPANY LIMITED",
+    "Mã số thuế": "0110611160",
+    "Địa chỉ": "Số nhà 696 Phố Mới, Xã Chu Minh, Huyện Ba Vì, Thành phố Hà Nội, Việt Nam",
+    "Người đại diện": "PHÙNG VĂN QUYẾT ( sinh năm 1986 - Hà Nội) Ẩn thông tin ",
+    "Điện thoại": " 0962346629",
+    "Ngày hoạt động": "2024-01-23",
+    "Quản lý bởi": "Chi cục Thuế Huyện Ba Vì",
+    "Loại hình DN": "Công ty trách nhiệm hữu hạn 2 thành viên trở lên ngoài NN",
+    "Tình trạng": "Đang hoạt động (đã được cấp GCN ĐKT)"
+  },
+  "industryInfo": {
+    "4101": "Xây dựng nhà để ở",
+    "4102": "Xây dựng nhà không để ở",
+    "4311": "Phá dỡ",
+    "4312": "Chuẩn bị mặt bằng",
+    "4511": "Bán buôn ô tô và xe có động cơ khác",
+    "4520": "Bảo dưỡng, sửa chữa ô tô và xe có động cơ khác",
+    "4659": "Bán buôn máy móc, thiết bị và phụ tùng máy khác",
+    "4663": "Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng",
+    "4752": "Bán lẻ đồ ngũ kim, sơn, kính và thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh",
+    "4912": "Vận tải hàng hóa đường sắt",
+    "4931": "Vận tải hành khách đường bộ trong nội thành, ngoại thành (trừ vận tải bằng xe buýt)",
+    "4932": "Vận tải hành khách đường bộ khác",
+    "4933": "Vận tải hàng hóa bằng đường bộ",
+    "5022": "Vận tải hàng hóa đường thuỷ nội địa",
+    "5225": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường bộ",
+    "5229": "Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải",
+    "5310": "Bưu chính",
+    "5320": "Chuyển phát",
+    "7710": "Cho thuê xe có động cơ",
+    "7730": "Cho thuê máy móc, thiết bị và đồ dùng hữu hình khác"
+  }
+}
